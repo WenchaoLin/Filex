@@ -1,6 +1,8 @@
 # Filex
 A fastadmin plugin
 
+http://www.fastadmin.net/store/fileix.html
+
 ```
 name = fileix
 title = fileix文件管理器
